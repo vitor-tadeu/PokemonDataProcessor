@@ -1,0 +1,15 @@
+**/bin/
+**/obj/
+.vs/
+.git/
+*.user
+*.suo
+*.dll
+*.pdb
+*.db
+*.log
+*.md
+Dockerfile
+README*
+LICENSE*
+*.csproj.user
